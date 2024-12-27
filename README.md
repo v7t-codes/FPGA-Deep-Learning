@@ -1,2 +1,2 @@
-# cogknit
+# Deep learning on the
 Edge
